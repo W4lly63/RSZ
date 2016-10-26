@@ -1,6 +1,7 @@
-# RSZ
+# RSZ ALPHA 0.1
 
 RSZ MOD FOR EXILE Arma3 - BECOME ZOMBIE WHEN KILLED (For AI and/or Players)
+ALPHA Version - in test phase
 
 Required : ExileZ 2 https://github.com/patrix87/ExileZ-2
 
